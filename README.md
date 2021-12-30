@@ -1,7 +1,4 @@
 
-![App Brewery Banner](Documentation/lightmode.png)
-![App Brewery Banner](Documentation/darkmode.png)
-
 #  WeatherApp
 
 
@@ -23,6 +20,10 @@ Based on App Brewery code I've made a beautiful, dark-mode enabled weather app. 
 * Parse JSON with the native Encodable and Decodable protocols. 
 * Learn to use Grand Central Dispatch to fetch the main thread.
 * Learn to use Core Location to get the current location from the phone GPS. 
+
+lightmode             |  darmkode
+:-------------------------:|:-------------------------:
+![](Documentation/lightmode.png)  |  ![](Documentation/darkmode.png)
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
